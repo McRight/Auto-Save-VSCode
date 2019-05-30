@@ -16,6 +16,7 @@ Whenever you **Alt + Tab** between windows your progress is automatically saved.
 ---
 
 [Link to the extension](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save&ssr=false#overview)
+---
 
 ### Release Notes
 ---
