@@ -19,7 +19,7 @@ Installation
 
 * You can type `ext install mcright.auto-save` in VS Code terminal.
 
-*or*
+    *or*
 
  * Just find it on the VS Code's *Extensions* tab.
 
