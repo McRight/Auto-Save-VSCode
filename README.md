@@ -19,6 +19,6 @@ Whenever you **Alt + Tab** between windows your progress is automatically saved.
 
 ### Release Notes
 
-#### 1.0.1
+#### 1.0.3
 
 Initial release of *Auto-Save on Window Change*
