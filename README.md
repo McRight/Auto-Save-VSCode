@@ -15,12 +15,13 @@ Whenever you **Alt + Tab** between windows your progress is automatically saved.
 Installation
 ---
 
-You can download it [here](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save&ssr=false#overview)
-> You can also type `ext install mcright.auto-save` in VS Code terminal.
+* You can download it on the [market](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save&ssr=false#overview).
+
+* You can type `ext install mcright.auto-save` in VS Code terminal.
 
 *or*
 
-Just find it on the VS Code's *Extensions* tab.
+ * Just find it on the VS Code's *Extensions* tab.
 
 Release Notes
 ---
